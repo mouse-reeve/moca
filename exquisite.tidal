@@ -1,2 +1,3 @@
-d1 $ sound "bd sn ~"
+d1 $ every 5 (rev) $ sound "bd sn ~ "
 d2 $ n "[c4 <b4 bf4> <a4 af4>] ~" # s "superpiano" # gain 0.8
+d3 $ s "<[e4 ~ ~] ~>" # s "superpiano" # gain 0.7
