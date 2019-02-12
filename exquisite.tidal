@@ -1,1 +1,2 @@
 d1 $ sound "bd sn ~"
+d2 $ n "[c4 <b4 bf4> <a4 af4>] ~" # s "superpiano" # gain 0.8
