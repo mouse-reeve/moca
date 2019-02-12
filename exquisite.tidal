@@ -1,3 +1,4 @@
 d1 $ every 5 (rev) $ sound "bd sn ~ "
 d2 $ n "[c4 <b4 bf4> <a4 af4>] ~" # s "superpiano" # gain 0.8
 d3 $ s "<[e4 ~ ~] ~>" # s "superpiano" # gain 0.7
+d4 $ slow 5 $ s "alphabet [alphabet]*2" # (fast 3 $ n "<18 15 4 11 11 8 13 6>") # speed 0.9
